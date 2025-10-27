@@ -26,5 +26,3 @@ We respect your privacy. This Privacy Policy explains how **21 Days Challenge** 
 ## 5. Changes to This Policy
 We may update this policy over time. Updates will appear here and in the official repository.
 
-## 6. Contact
-Questions? Open a GitHub Issue or email: **youremail@example.com**.
