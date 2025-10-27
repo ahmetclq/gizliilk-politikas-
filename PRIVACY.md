@@ -23,12 +23,8 @@ We respect your privacy. This Privacy Policy explains how **21 Days Challenge** 
 - **AI Provider** (e.g., OpenAI): Processes anonymized text only for generating responses.
 - **App Stores** (Google Play / Apple App Store): May collect crash reports/analytics per their policies.
 
-## 5. Your Rights
-- You can delete your notes and progress from the in-app **Reset** option.
-- Uninstalling the app removes locally stored data.
-
-## 6. Changes to This Policy
+## 5. Changes to This Policy
 We may update this policy over time. Updates will appear here and in the official repository.
 
-## 7. Contact
+## 6. Contact
 Questions? Open a GitHub Issue or email: **youremail@example.com**.
