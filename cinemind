@@ -1,39 +1,97 @@
 Data Collection
 
-The app does not collect any personally identifiable information.
-All movies, series, ratings, and notes added by the user are stored locally on the device.
+Cinemind does not require users to create an account and does not directly collect personally identifiable information such as name, email address, or phone number.
+
+Movies, series, ratings, notes, and watchlist data created by the user are stored locally on the user’s device and are not uploaded to our servers.
+
+However, the app uses third-party services that may collect certain device-level information.
+
+⸻
+
+Third-Party Services (Advertising)
+
+Cinemind displays banner and interstitial advertisements using Google AdMob, a third-party advertising service.
+
+AdMob may collect the following data automatically:
+	•	Device identifiers (such as the advertising identifier)
+	•	Approximate usage and interaction data related to ads
+
+This data may be used by Google for:
+	•	Displaying ads
+	•	Measuring ad performance
+	•	Fraud prevention and security
+
+Cinemind does not have access to or control over the data collected by Google AdMob.
+
+Users can remove all ads permanently by purchasing the “Remove Ads” in-app purchase.
+
+⸻
 
 Data Usage
 
 Collected data is used only to:
-	•	Manage the watchlist
-	•	Display personal statistics
-	•	Provide a daily AI-powered recommendation
+	•	Display advertisements
+	•	Measure advertising performance
+	•	Manage in-app features such as the watchlist and personal statistics
+	•	Provide a daily AI-powered recommendation based on in-app preferences
+
+⸻
 
 AI Feature
 
-The AI feature provides one daily recommendation based on in-app preferences.
-No personal data is stored or shared with third parties during this process.
+The AI-powered recommendation feature provides one daily suggestion based solely on in-app preferences and interactions.
+	•	No personally identifiable information is stored
+	•	No personal data is shared with third parties for AI processing
+	•	AI recommendations do not involve external user profiling
+
+⸻
 
 Data Sharing
 
-The app:
-	•	Does not share user data with third parties
-	•	Does not use personal data for advertising or analytics
+Cinemind:
+	•	Does not sell user data
+	•	Does not share personal user data with third parties for marketing purposes
+
+Limited data may be shared automatically with third-party services (such as Google AdMob) only for advertising and analytics purposes, in accordance with their privacy policies.
+
+⸻
+
+App Tracking Transparency
+
+Cinemind complies with Apple’s App Tracking Transparency framework.
+
+If required, users are asked for permission before any tracking-related data is accessed. Users can choose whether to allow or deny tracking at any time through their device settings.
+
+⸻
 
 Data Security
 
-All data is stored locally on the user’s device. Reasonable technical measures are taken to protect user data.
+All user-generated content (watchlists, ratings, notes) is stored locally on the device.
+
+Reasonable technical and organizational measures are taken to protect user data and ensure app security.
+
+⸻
 
 Children’s Privacy
 
-The app does not knowingly collect personal information from children under the age of 13.
+Cinemind does not knowingly collect personal information from children under the age of 13.
 
-Changes
+If you believe that a child has provided personal information, please contact us so we can take appropriate action.
 
-This privacy policy may be updated from time to time. Any changes will be reflected within the app or on the App Store page.
+⸻
+
+Changes to This Privacy Policy
+
+This privacy policy may be updated from time to time.
+Any changes will be reflected within the app or on the App Store product page.
+
+⸻
 
 Contact
 
-If you have any questions about this privacy policy, contact:
-Email : 6353ww@gmail.com
+If you have any questions about this privacy policy, please contact:
+
+Email: 6353ww@gmail.com
+
+⸻
+
