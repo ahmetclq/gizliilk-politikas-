@@ -1,46 +1,110 @@
-Last updated: December 2025
+Last updated: January 2026
 
-SoundFocus respects your privacy. This Privacy Policy explains how your information is handled when you use the SoundFocus app.
+SoundFocus respects your privacy. This Privacy Policy explains how information is handled when you use the SoundFocus app.
 
-1. No Personal Data Collection
+⸻
 
-SoundFocus does not collect, store, or process any personal data.
-We do not require you to create an account, sign in, or provide any personal information.
+1. Personal Data Collection
 
-2. No Internet Connection Required
+SoundFocus does not require account creation and does not directly collect personal information such as name, email address, or phone number.
 
-SoundFocus works fully offline. All features, including focus sessions, statistics, and sounds, function without any internet connection.
+All focus sessions, statistics, and preferences entered by the user are stored locally on the device.
 
-3. Local Data Storage Only
+⸻
 
-All usage data such as:
+2. Internet Connection
+
+SoundFocus can function offline for core features such as focus sessions and statistics.
+
+However, an internet connection may be required for:
+	•	Displaying advertisements
+	•	Processing in-app purchases
+	•	Loading third-party services related to ads
+
+⸻
+
+3. Local Data Storage
+
+All user-generated data including:
 	•	Completed focus sessions
 	•	Total focus time
-	•	Focus score
-are stored locally on your device only using secure local storage. This data is never transmitted to any server or third party.
+	•	Focus statistics
 
-4. No Ads & No Tracking
+is stored only on the user’s device using local storage.
 
-SoundFocus contains:
-	•	No advertisements
-	•	No analytics tools
-	•	No tracking systems
-	•	No third-party SDKs that collect user data
+This data is not uploaded to our servers.
 
-5. Children’s Privacy
+⸻
 
-SoundFocus does not knowingly collect any data from children under the age of 13. Since no data is collected at all, it is safe for all age groups.
+4. Advertising & Third-Party Services
 
-6. Data Security
+SoundFocus displays banner and interstitial advertisements using Google AdMob, a third-party advertising service.
 
-Because all data is stored locally on your device and never transmitted, your data remains fully under your control.
+Google AdMob may automatically collect certain device-level information, including:
+	•	Device identifiers (such as advertising identifiers)
+	•	Advertising interaction data
+	•	Approximate usage data related to ads
 
-7. Changes to This Privacy Policy
+This data may be used by Google to:
+	•	Display relevant advertisements
+	•	Measure ad performance
+	•	Prevent fraud and abuse
 
-If this Privacy Policy is updated, the new version will be published within the app or on the official App Store page.
+SoundFocus does not have access to or control over the data collected by Google AdMob.
 
-8. Contact
+Users can permanently remove all advertisements by purchasing the “Remove Ads” one-time in-app purchase.
 
-If you have any questions regarding this Privacy Policy, you may contact us via the support email provided on the App Store page.
+⸻
 
-6353ww@gmail.com
+5. In-App Purchases
+
+SoundFocus offers a one-time, non-consumable in-app purchase that removes advertisements permanently.
+
+Purchase processing is handled securely by Apple. SoundFocus does not collect or store any payment information.
+
+⸻
+
+6. App Tracking Transparency
+
+SoundFocus complies with Apple’s App Tracking Transparency (ATT) framework.
+
+When required, users are asked for permission before tracking-related data is accessed. Tracking preferences can be managed at any time through iOS system settings.
+
+⸻
+
+7. Data Sharing
+
+SoundFocus does not sell or trade user data.
+
+Limited data may be processed by third-party services (such as Google AdMob) solely for advertising and measurement purposes, in accordance with their privacy policies.
+
+⸻
+
+8. Children’s Privacy
+
+SoundFocus does not knowingly collect personal information from children under the age of 13.
+
+If you believe a child has provided personal information, please contact us so appropriate action can be taken.
+
+⸻
+
+9. Data Security
+
+All user-generated data is stored locally on the device.
+
+Reasonable technical measures are implemented to protect the app and its data.
+
+⸻
+
+10. Changes to This Privacy Policy
+
+This Privacy Policy may be updated from time to time.
+Any changes will be reflected within the app or on the App Store product page.
+
+⸻
+
+11. Contact
+
+If you have any questions regarding this Privacy Policy, please contact us at:
+
+Email: 6353ww@gmail.com
